@@ -24,8 +24,8 @@ not just demo projects.
 A production-ready online booking platform with time-slot scheduling,
 anti-spam protection, admin panel and automated tests.
 
-🌐 Live demo: https://your-app.onrender.com  
-💻 Source code: https://github.com/your-username/barbershop-project
+🌐 Live demo: https://barbershoppp.onrender.com
+💻 Source code: https://github.com/wingorosnova/barbershoppp
 
 ### Open to
 - Freelance projects
