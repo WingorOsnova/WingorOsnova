@@ -19,13 +19,10 @@ not just demo projects.
 - Automated testing
 - Cloud deployment (PostgreSQL, Render)
 
-### Featured project
-**Barbershop Online Booking System**  
-A production-ready online booking platform with time-slot scheduling,
-anti-spam protection, admin panel and automated tests.
+### My best Project
+Web-site PWA TranslatLy. This translate can understand the tone of yout text. 
 
-🌐 Live demo: https://barbershoppp.onrender.com
-💻 Source code: https://github.com/wingorosnova/barbershoppp
+🌐 Live demo: https://translatly.onrender.com
 
 ### Open to
 - Freelance projects
